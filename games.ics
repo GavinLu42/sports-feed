@@ -25,4 +25,1919 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:espn-401861470@sports-feed
+DTSTAMP:20260906T120000Z
+DTSTART;TZID=America/New_York:20260906T080000
+DTEND;TZID=America/New_York:20260906T100000
+SUMMARY:⚽ Zhejiang @ Tianjin (CSL)
+DESCRIPTION:Zhejiang Professional FC (away)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861470/zhejiang-professional-fc-tianjin-jinmen-tiger
+LOCATION:TEDA Football Stadium\, Tianjin\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876466@sports-feed
+DTSTAMP:20260912T184500Z
+DTSTART;TZID=America/New_York:20260912T144500
+DTEND;TZID=America/New_York:20260912T164500
+SUMMARY:⚽ Auxerre vs Nice (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876466/nice-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401861443@sports-feed
+DTSTAMP:20260918T113500Z
+DTSTART;TZID=America/New_York:20260918T073500
+DTEND;TZID=America/New_York:20260918T093500
+SUMMARY:⚽ Zhejiang vs Wuhan TT (CSL)
+DESCRIPTION:Zhejiang Professional FC (home)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861443/wuhan-three-towns-zhejiang-professional-fc
+LOCATION:Yellow Dragon Sports Center Stadium\, Hangzhou\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876456@sports-feed
+DTSTAMP:20260920T130000Z
+DTSTART;TZID=America/New_York:20260920T090000
+DTEND;TZID=America/New_York:20260920T110000
+SUMMARY:⚽ Auxerre vs Brest (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876456/brest-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914222@sports-feed
+DTSTAMP:20260924T113500Z
+DTSTART;TZID=America/New_York:20260924T073500
+DTEND;TZID=America/New_York:20260924T093500
+SUMMARY:⚽ China vs Maldives (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401914222/maldives-china
+LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914142@sports-feed
+DTSTAMP:20260927T113500Z
+DTSTART;TZID=America/New_York:20260927T073500
+DTEND;TZID=America/New_York:20260927T093500
+SUMMARY:⚽ China vs New Zealand (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401914142/new-zealand-china
+LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914141@sports-feed
+DTSTAMP:20261002T113500Z
+DTSTART;TZID=America/New_York:20261002T073500
+DTEND;TZID=America/New_York:20261002T093500
+SUMMARY:⚽ China vs Palestine (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401914141/palestine-china
+LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401927858@sports-feed
+DTSTAMP:20261003T130000Z
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T110000
+SUMMARY:⚽ Auxerre vs Clermont Foot (Club Friendly)
+DESCRIPTION:AJ Auxerre (home)\nClub Friendly\nhttps://www.espn.com/soccer/m
+ atch/_/gameId/401927858/clermont-foot-aj-auxerre
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914140@sports-feed
+DTSTAMP:20261006T113500Z
+DTSTART;TZID=America/New_York:20261006T073500
+DTEND;TZID=America/New_York:20261006T093500
+SUMMARY:⚽ China vs Tajikistan (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401914140/tajikistan-china
+LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401861472@sports-feed
+DTSTAMP:20261009T120000Z
+DTSTART;TZID=America/New_York:20261009T080000
+DTEND;TZID=America/New_York:20261009T100000
+SUMMARY:⚽ Zhejiang vs Shanghai Port (CSL)
+DESCRIPTION:Zhejiang Professional FC (home)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861472/shanghai-port-zhejiang-professional-fc
+LOCATION:Yellow Dragon Sports Center Stadium\, Hangzhou\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876441@sports-feed
+DTSTAMP:20261011T151500Z
+DTSTART;TZID=America/New_York:20261011T111500
+DTEND;TZID=America/New_York:20261011T131500
+SUMMARY:⚽ Auxerre @ Rennes (Ligue 1)
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876441/aj-auxerre-stade-rennais
+LOCATION:Roazhon Park\, Rennes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401861479@sports-feed
+DTSTAMP:20261017T120000Z
+DTSTART;TZID=America/New_York:20261017T080000
+DTEND;TZID=America/New_York:20261017T100000
+SUMMARY:⚽ Zhejiang @ Shandong (CSL)
+DESCRIPTION:Zhejiang Professional FC (away)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861479/zhejiang-professional-fc-shandong-taishan
+LOCATION:Jinan Olympic Sports Center Stadium\, Jinan\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876438@sports-feed
+DTSTAMP:20261018T151500Z
+DTSTART;TZID=America/New_York:20261018T111500
+DTEND;TZID=America/New_York:20261018T131500
+SUMMARY:⚽ Auxerre @ Le Havre AC (Ligue 1)
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876438/aj-auxerre-le-havre-ac
+LOCATION:Stade Océane\, Le Havre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909841@sports-feed
+DTSTAMP:20261022T020000Z
+DTSTART;TZID=America/New_York:20261021T220000
+DTEND;TZID=America/New_York:20261022T003000
+SUMMARY:🏀 Blazers vs Suns
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909841/suns-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909852@sports-feed
+DTSTAMP:20261024T020000Z
+DTSTART;TZID=America/New_York:20261023T220000
+DTEND;TZID=America/New_York:20261024T003000
+SUMMARY:🏀 Blazers @ Kings
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909852/trail-blazers-kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401861512@sports-feed
+DTSTAMP:20261024T073000Z
+DTSTART;TZID=America/New_York:20261024T033000
+DTEND;TZID=America/New_York:20261024T053000
+SUMMARY:⚽ Zhejiang @ Liaoning (CSL)
+DESCRIPTION:Zhejiang Professional FC (away)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861512/zhejiang-professional-fc-liaoning-tieren
+LOCATION:Tiexi New District Sports Centre\, Liaoning\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876429@sports-feed
+DTSTAMP:20261025T161500Z
+DTSTART;TZID=America/New_York:20261025T121500
+DTEND;TZID=America/New_York:20261025T141500
+SUMMARY:⚽ Auxerre vs Le Mans (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876429/le-mans-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909880@sports-feed
+DTSTAMP:20261028T030000Z
+DTSTART;TZID=America/New_York:20261027T230000
+DTEND;TZID=America/New_York:20261028T013000
+SUMMARY:🏀 Blazers @ Lakers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909880/trail-blazers-lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909895@sports-feed
+DTSTAMP:20261030T020000Z
+DTSTART;TZID=America/New_York:20261029T220000
+DTEND;TZID=America/New_York:20261030T003000
+SUMMARY:🏀 Blazers vs Grizzlies
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909895/grizzlies-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909896@sports-feed
+DTSTAMP:20261031T190000Z
+DTSTART;TZID=America/New_York:20261031T150000
+DTEND;TZID=America/New_York:20261031T173000
+SUMMARY:🏀 Blazers @ Jazz
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909896/trail-blazers-jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876414@sports-feed
+DTSTAMP:20261101T140000Z
+DTSTART;TZID=America/New_York:20261101T090000
+DTEND;TZID=America/New_York:20261101T110000
+SUMMARY:⚽ Auxerre @ Strasbourg (Ligue 1)
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876414/aj-auxerre-strasbourg
+LOCATION:Stade de la Meinau\, Strasbourg\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911001@sports-feed
+DTSTAMP:20261103T000000Z
+DTSTART;TZID=America/New_York:20261102T190000
+DTEND;TZID=America/New_York:20261102T210000
+SUMMARY:🏀 UMass @ Troy
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA · MAC-SBC Chal
+ lenge\nhttps://www.espn.com/mens-college-basketball/game/_/gameId/40191100
+ 1/umass-troy
+LOCATION:Trojan Arena\, Troy\, AL
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909918@sports-feed
+DTSTAMP:20261103T020000Z
+DTSTART;TZID=America/New_York:20261102T210000
+DTEND;TZID=America/New_York:20261102T233000
+SUMMARY:🏀 Blazers @ Nuggets
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909918/trail-blazers-nuggets
+LOCATION:Ball Arena\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401922029@sports-feed
+DTSTAMP:20261103T030000Z
+DTSTART;TZID=America/New_York:20261102T220000
+DTEND;TZID=America/New_York:20261103T000000
+SUMMARY:🏀 Oregon vs Montana
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401922029/montana-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909932@sports-feed
+DTSTAMP:20261105T020000Z
+DTSTART;TZID=America/New_York:20261104T210000
+DTEND;TZID=America/New_York:20261104T233000
+SUMMARY:🏀 Blazers @ Suns
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909932/trail-blazers-suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401920717@sports-feed
+DTSTAMP:20261106T050000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Oregon vs E Washington · time TBD
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401920717/e-washington-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909552@sports-feed
+DTSTAMP:20261106T210000Z
+DTSTART;TZID=America/New_York:20261106T160000
+DTEND;TZID=America/New_York:20261106T180000
+SUMMARY:🏀 UMass vs Boston College
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA · Hall of Fame
+  Series - Boston\nhttps://www.espn.com/mens-college-basketball/game/_/game
+ Id/401909552/umass-boston-college
+LOCATION:TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909294@sports-feed
+DTSTAMP:20261107T030000Z
+DTSTART;TZID=America/New_York:20261106T220000
+DTEND;TZID=America/New_York:20261107T003000
+SUMMARY:🏀 Blazers @ Lakers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909294/trail-blazers-lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876411@sports-feed
+DTSTAMP:20261107T161500Z
+DTSTART;TZID=America/New_York:20261107T111500
+DTEND;TZID=America/New_York:20261107T131500
+SUMMARY:⚽ Auxerre vs Paris FC (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876411/paris-fc-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909944@sports-feed
+DTSTAMP:20261108T030000Z
+DTSTART;TZID=America/New_York:20261107T220000
+DTEND;TZID=America/New_York:20261108T003000
+SUMMARY:🏀 Blazers vs Spurs
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909944/spurs-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401861491@sports-feed
+DTSTAMP:20261108T073000Z
+DTSTART;TZID=America/New_York:20261108T023000
+DTEND;TZID=America/New_York:20261108T043000
+SUMMARY:⚽ Zhejiang vs Henan (CSL)
+DESCRIPTION:Zhejiang Professional FC (home)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861491/henan-zhejiang-professional-fc
+LOCATION:Yellow Dragon Sports Center Stadium\, Hangzhou\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909965@sports-feed
+DTSTAMP:20261111T040000Z
+DTSTART;TZID=America/New_York:20261110T230000
+DTEND;TZID=America/New_York:20261111T013000
+SUMMARY:🏀 Blazers vs Thunder
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909965/thunder-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401925738@sports-feed
+DTSTAMP:20261111T050000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Oregon vs Miss Valley St · time TBD
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401925738/miss-valley-st-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911012@sports-feed
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/New_York:20261111T190000
+DTEND;TZID=America/New_York:20261111T210000
+SUMMARY:🏀 UMass vs UMass Lowell
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911012/umass-lowell-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909975@sports-feed
+DTSTAMP:20261112T030000Z
+DTSTART;TZID=America/New_York:20261111T220000
+DTEND;TZID=America/New_York:20261112T003000
+SUMMARY:🏀 Blazers vs Thunder
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909975/thunder-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909303@sports-feed
+DTSTAMP:20261114T030000Z
+DTSTART;TZID=America/New_York:20261113T220000
+DTEND;TZID=America/New_York:20261114T003000
+SUMMARY:🏀 Blazers @ Kings
+DESCRIPTION:Portland Trail Blazers (away)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909303/trail-blazers-kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401930236@sports-feed
+DTSTAMP:20261114T120000Z
+DTSTART;TZID=America/New_York:20261114T070000
+DTEND;TZID=America/New_York:20261114T090000
+SUMMARY:⚽ China vs Malaysia (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401930236/malaysia-china
+LOCATION:Tianhe Stadium\, Guangzhou\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401926073@sports-feed
+DTSTAMP:20261115T220000Z
+DTSTART;TZID=America/New_York:20261115T170000
+DTEND;TZID=America/New_York:20261115T190000
+SUMMARY:🏀 Oregon vs Pepperdine
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401926073/pepperdine-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909999@sports-feed
+DTSTAMP:20261117T010000Z
+DTSTART;TZID=America/New_York:20261116T200000
+DTEND;TZID=America/New_York:20261116T223000
+SUMMARY:🏀 Blazers @ Timberwolves
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401909999/trail-blazers-timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401930880@sports-feed
+DTSTAMP:20261117T120000Z
+DTSTART;TZID=America/New_York:20261117T070000
+DTEND;TZID=America/New_York:20261117T090000
+SUMMARY:⚽ China vs Bahrain (Friendly)
+DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
+ m/soccer/match/_/gameId/401930880/bahrain-china
+LOCATION:Tianhe Stadium\, Guangzhou\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911020@sports-feed
+DTSTAMP:20261118T003000Z
+DTSTART;TZID=America/New_York:20261117T193000
+DTEND;TZID=America/New_York:20261117T213000
+SUMMARY:🏀 UMass vs Bryant
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911020/bryant-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910003@sports-feed
+DTSTAMP:20261118T010000Z
+DTSTART;TZID=America/New_York:20261117T200000
+DTEND;TZID=America/New_York:20261117T223000
+SUMMARY:🏀 Blazers @ Timberwolves
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910003/trail-blazers-timberwolves
+LOCATION:Target Center\, Minneapolis\, MN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910020@sports-feed
+DTSTAMP:20261120T010000Z
+DTSTART;TZID=America/New_York:20261119T200000
+DTEND;TZID=America/New_York:20261119T223000
+SUMMARY:🏀 Blazers @ Bucks
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910020/trail-blazers-bucks
+LOCATION:Fiserv Forum\, Milwaukee\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401930884@sports-feed
+DTSTAMP:20261120T020000Z
+DTSTART;TZID=America/New_York:20261119T210000
+DTEND;TZID=America/New_York:20261119T230000
+SUMMARY:🏀 Oregon vs Oregon St
+DESCRIPTION:Oregon Ducks (men's basketball) (neutral site)\nNCAA\nhttps://w
+ ww.espn.com/mens-college-basketball/game/_/gameId/401930884/oregon-st-oreg
+ on
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876399@sports-feed
+DTSTAMP:20261121T194500Z
+DTSTART;TZID=America/New_York:20261121T144500
+DTEND;TZID=America/New_York:20261121T164500
+SUMMARY:⚽ Auxerre @ Monaco (Ligue 1)
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876399/aj-auxerre-as-monaco
+LOCATION:Stade Louis II\, Monaco\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911023@sports-feed
+DTSTAMP:20261121T230000Z
+DTSTART;TZID=America/New_York:20261121T180000
+DTEND;TZID=America/New_York:20261121T200000
+SUMMARY:🏀 UMass vs Maine
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911023/maine-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910024@sports-feed
+DTSTAMP:20261122T003000Z
+DTSTART;TZID=America/New_York:20261121T193000
+DTEND;TZID=America/New_York:20261121T220000
+SUMMARY:🏀 Blazers @ Knicks
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910024/trail-blazers-knicks
+LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910037@sports-feed
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/New_York:20261123T190000
+DTEND;TZID=America/New_York:20261123T213000
+SUMMARY:🏀 Blazers @ 76ers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910037/trail-blazers-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915943@sports-feed
+DTSTAMP:20261125T033000Z
+DTSTART;TZID=America/New_York:20261124T223000
+DTEND;TZID=America/New_York:20261125T003000
+SUMMARY:🏀 Oregon vs St John's
+DESCRIPTION:Oregon Ducks (men's basketball) (neutral site)\nNCAA · Players
+  Era Sixteen\nhttps://www.espn.com/mens-college-basketball/game/_/gameId/4
+ 01915943/st-johns-oregon
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909325@sports-feed
+DTSTAMP:20261126T030000Z
+DTSTART;TZID=America/New_York:20261125T220000
+DTEND;TZID=America/New_York:20261126T003000
+SUMMARY:🏀 Blazers vs Spurs
+DESCRIPTION:Portland Trail Blazers (home)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909336@sports-feed
+DTSTAMP:20261128T023000Z
+DTSTART;TZID=America/New_York:20261127T213000
+DTEND;TZID=America/New_York:20261128T000000
+SUMMARY:🏀 Blazers vs Warriors
+DESCRIPTION:Portland Trail Blazers (home)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909336/warriors-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876393@sports-feed
+DTSTAMP:20261129T140000Z
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T110000
+SUMMARY:⚽ Auxerre vs Marseille (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876393/marseille-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401927392@sports-feed
+DTSTAMP:20261129T180000Z
+DTSTART;TZID=America/New_York:20261129T130000
+DTEND;TZID=America/New_York:20261129T150000
+SUMMARY:🏀 UMass vs Loyola Chicago
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401927392/loyola-chicago-umas
+ s
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910058@sports-feed
+DTSTAMP:20261129T230000Z
+DTSTART;TZID=America/New_York:20261129T180000
+DTEND;TZID=America/New_York:20261129T203000
+SUMMARY:🏀 Blazers vs Pelicans
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910058/pelicans-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910074@sports-feed
+DTSTAMP:20261202T030000Z
+DTSTART;TZID=America/New_York:20261201T220000
+DTEND;TZID=America/New_York:20261202T003000
+SUMMARY:🏀 Blazers vs Timberwolves
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910074/timberwolves-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921875@sports-feed
+DTSTAMP:20261202T030000Z
+DTSTART;TZID=America/New_York:20261201T220000
+DTEND;TZID=America/New_York:20261202T000000
+SUMMARY:🏀 Oregon @ UCLA
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921875/oregon-ucla
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911037@sports-feed
+DTSTAMP:20261202T233000Z
+DTSTART;TZID=America/New_York:20261202T183000
+DTEND;TZID=America/New_York:20261202T203000
+SUMMARY:🏀 UMass @ E Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911037/umass-e-michigan
+LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910089@sports-feed
+DTSTAMP:20261204T030000Z
+DTSTART;TZID=America/New_York:20261203T220000
+DTEND;TZID=America/New_York:20261204T003000
+SUMMARY:🏀 Blazers vs Jazz
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910089/jazz-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876384@sports-feed
+DTSTAMP:20261205T200000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Lille (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876384/aj-auxerre-lille
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921880@sports-feed
+DTSTAMP:20261205T210000Z
+DTSTART;TZID=America/New_York:20261205T160000
+DTEND;TZID=America/New_York:20261205T180000
+SUMMARY:🏀 Oregon vs USC
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921880/usc-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909732@sports-feed
+DTSTAMP:20261206T180000Z
+DTSTART;TZID=America/New_York:20261206T130000
+DTEND;TZID=America/New_York:20261206T150000
+SUMMARY:🏀 UMass vs Wake Forest
+DESCRIPTION:UMass Minutemen (men's basketball) (neutral site)\nNCAA · Bask
+ etball Hall of Fame Classic\nhttps://www.espn.com/mens-college-basketball/
+ game/_/gameId/401909732/wake-forest-umass
+LOCATION:MassMutual Center\, Springfield\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911044@sports-feed
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T210000
+SUMMARY:🏀 UMass vs W Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911044/w-michigan-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876375@sports-feed
+DTSTAMP:20261212T200000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Toulouse (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876375/toulouse-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401926074@sports-feed
+DTSTAMP:20261212T210000Z
+DTSTART;TZID=America/New_York:20261212T160000
+DTEND;TZID=America/New_York:20261212T180000
+SUMMARY:🏀 Oregon vs Indiana St
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401926074/indiana-st-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911051@sports-feed
+DTSTAMP:20261213T000000Z
+DTSTART;TZID=America/New_York:20261212T190000
+DTEND;TZID=America/New_York:20261212T210000
+SUMMARY:🏀 UMass @ Kent State
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911051/umass-kent-state
+LOCATION:M.A.C. Center\, Kent\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910097@sports-feed
+DTSTAMP:20261213T030000Z
+DTSTART;TZID=America/New_York:20261212T220000
+DTEND;TZID=America/New_York:20261213T003000
+SUMMARY:🏀 Blazers vs Hawks
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910097/hawks-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910116@sports-feed
+DTSTAMP:20261216T040000Z
+DTSTART;TZID=America/New_York:20261215T230000
+DTEND;TZID=America/New_York:20261216T013000
+SUMMARY:🏀 Blazers vs Nuggets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910116/nuggets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401926075@sports-feed
+DTSTAMP:20261217T033000Z
+DTSTART;TZID=America/New_York:20261216T223000
+DTEND;TZID=America/New_York:20261217T003000
+SUMMARY:🏀 Oregon vs Southern
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401926075/southern-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910130@sports-feed
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T213000
+SUMMARY:🏀 Blazers @ Pacers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910130/trail-blazers-pacers
+LOCATION:Gainbridge Fieldhouse\, Indianapolis\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911059@sports-feed
+DTSTAMP:20261219T180000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:🏀 UMass vs Stonehill
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911059/stonehill-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910145@sports-feed
+DTSTAMP:20261219T230000Z
+DTSTART;TZID=America/New_York:20261219T180000
+DTEND;TZID=America/New_York:20261219T203000
+SUMMARY:🏀 Blazers @ Hornets
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910145/trail-blazers-hornets
+LOCATION:Spectrum Center\, Charlotte\, NC
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401925920@sports-feed
+DTSTAMP:20261220T213000Z
+DTSTART;TZID=America/New_York:20261220T163000
+DTEND;TZID=America/New_York:20261220T183000
+SUMMARY:🏀 Oregon vs Portland St
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401925920/portland-st-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911060@sports-feed
+DTSTAMP:20261221T160000Z
+DTSTART;TZID=America/New_York:20261221T110000
+DTEND;TZID=America/New_York:20261221T130000
+SUMMARY:🏀 UMass vs UMass Boston
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911060/umass-boston-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910162@sports-feed
+DTSTAMP:20261222T003000Z
+DTSTART;TZID=America/New_York:20261221T193000
+DTEND;TZID=America/New_York:20261221T220000
+SUMMARY:🏀 Blazers @ Nets
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910162/trail-blazers-nets
+LOCATION:Barclays Center\, Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910175@sports-feed
+DTSTAMP:20261224T003000Z
+DTSTART;TZID=America/New_York:20261223T193000
+DTEND;TZID=America/New_York:20261223T220000
+SUMMARY:🏀 Blazers @ Celtics
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910175/trail-blazers-celtics
+LOCATION:TD Garden\, Boston\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910187@sports-feed
+DTSTAMP:20261226T180000Z
+DTSTART;TZID=America/New_York:20261226T130000
+DTEND;TZID=America/New_York:20261226T153000
+SUMMARY:🏀 Blazers @ Wizards
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910187/trail-blazers-wizards
+LOCATION:Capital One Arena\, Washington\, DC
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910201@sports-feed
+DTSTAMP:20261228T000000Z
+DTSTART;TZID=America/New_York:20261227T190000
+DTEND;TZID=America/New_York:20261227T213000
+SUMMARY:🏀 Blazers @ Pistons
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910201/trail-blazers-pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911067@sports-feed
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=America/New_York:20261229T190000
+DTEND;TZID=America/New_York:20261229T210000
+SUMMARY:🏀 UMass vs Akron
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911067/akron-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910217@sports-feed
+DTSTAMP:20261230T030000Z
+DTSTART;TZID=America/New_York:20261229T220000
+DTEND;TZID=America/New_York:20261230T003000
+SUMMARY:🏀 Blazers vs Nets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910217/nets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921891@sports-feed
+DTSTAMP:20261230T210000Z
+DTSTART;TZID=America/New_York:20261230T160000
+DTEND;TZID=America/New_York:20261230T180000
+SUMMARY:🏀 Oregon @ Ohio State
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921891/oregon-ohio-state
+LOCATION:Schottenstein Center\, Columbus\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921897@sports-feed
+DTSTAMP:20270102T190000Z
+DTSTART;TZID=America/New_York:20270102T140000
+DTEND;TZID=America/New_York:20270102T160000
+SUMMARY:🏀 Oregon @ Penn State
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921897/oregon-penn-state
+LOCATION:Bryce Jordan Center\, University Park\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911069@sports-feed
+DTSTAMP:20270102T190000Z
+DTSTART;TZID=America/New_York:20270102T140000
+DTEND;TZID=America/New_York:20270102T160000
+SUMMARY:🏀 UMass vs Ball State
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911069/ball-state-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876364@sports-feed
+DTSTAMP:20270102T200000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Lorient (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876364/aj-auxerre-lorient
+LOCATION:Stade du Moustoir - Yves Allainmat\, Lorient\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910250@sports-feed
+DTSTAMP:20270103T030000Z
+DTSTART;TZID=America/New_York:20270102T220000
+DTEND;TZID=America/New_York:20270103T003000
+SUMMARY:🏀 Blazers vs Celtics
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910250/celtics-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910264@sports-feed
+DTSTAMP:20270105T030000Z
+DTSTART;TZID=America/New_York:20270104T220000
+DTEND;TZID=America/New_York:20270105T003000
+SUMMARY:🏀 Blazers vs Knicks
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910264/knicks-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911076@sports-feed
+DTSTAMP:20270105T233000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:🏀 UMass @ Buffalo
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911076/umass-buffalo
+LOCATION:Broadview Arena\, Buffalo\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910276@sports-feed
+DTSTAMP:20270107T010000Z
+DTSTART;TZID=America/New_York:20270106T200000
+DTEND;TZID=America/New_York:20270106T223000
+SUMMARY:🏀 Blazers @ Pelicans
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910276/trail-blazers-pelicans
+LOCATION:Smoothie King Center\, New Orleans\, LA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921783@sports-feed
+DTSTAMP:20270107T033000Z
+DTSTART;TZID=America/New_York:20270106T223000
+DTEND;TZID=America/New_York:20270107T003000
+SUMMARY:🏀 Oregon vs Indiana
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921783/indiana-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910285@sports-feed
+DTSTAMP:20270108T010000Z
+DTSTART;TZID=America/New_York:20270107T200000
+DTEND;TZID=America/New_York:20270107T223000
+SUMMARY:🏀 Blazers @ Mavericks
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910285/trail-blazers-mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911086@sports-feed
+DTSTAMP:20270109T190000Z
+DTSTART;TZID=America/New_York:20270109T140000
+DTEND;TZID=America/New_York:20270109T160000
+SUMMARY:🏀 UMass @ Ohio
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911086/umass-ohio
+LOCATION:Convocation Center (OH)\, Athens\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872244@sports-feed
+DTSTAMP:20270109T200000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+SUMMARY:⚽ China @ Iran (Asian Cup) · time TBD
+DESCRIPTION:China men's national team (away)\nAsian Cup\nhttps://www.espn.c
+ om/soccer/match/_/gameId/401872244/china-iran
+LOCATION:Kingdom Arena\, King Fahd International Stadium\, Saudi Arabia
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910303@sports-feed
+DTSTAMP:20270110T030000Z
+DTSTART;TZID=America/New_York:20270109T220000
+DTEND;TZID=America/New_York:20270110T003000
+SUMMARY:🏀 Blazers vs Hornets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910303/hornets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921912@sports-feed
+DTSTAMP:20270110T233000Z
+DTSTART;TZID=America/New_York:20270110T183000
+DTEND;TZID=America/New_York:20270110T203000
+SUMMARY:🏀 Oregon vs Nebraska
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921912/nebraska-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911087@sports-feed
+DTSTAMP:20270113T000000Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:🏀 UMass vs Toledo
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911087/toledo-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910325@sports-feed
+DTSTAMP:20270113T030000Z
+DTSTART;TZID=America/New_York:20270112T220000
+DTEND;TZID=America/New_York:20270113T003000
+SUMMARY:🏀 Blazers vs Magic
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910325/magic-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910333@sports-feed
+DTSTAMP:20270114T030000Z
+DTSTART;TZID=America/New_York:20270113T220000
+DTEND;TZID=America/New_York:20270114T003000
+SUMMARY:🏀 Blazers vs Lakers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910333/lakers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872255@sports-feed
+DTSTAMP:20270114T200000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+TRANSP:TRANSPARENT
+SUMMARY:⚽ China vs Syria (Asian Cup) · time TBD
+DESCRIPTION:China men's national team (home)\nAsian Cup\nhttps://www.espn.c
+ om/soccer/match/_/gameId/401872255/syria-china
+LOCATION:Prince Abdullah Al-Faisal Stadium\, Jeddah\, Saudi Arabia
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910349@sports-feed
+DTSTAMP:20270116T030000Z
+DTSTART;TZID=America/New_York:20270115T220000
+DTEND;TZID=America/New_York:20270116T003000
+SUMMARY:🏀 Blazers vs Kings
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910349/kings-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876357@sports-feed
+DTSTAMP:20270116T200000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Troyes (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876357/troyes-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911097@sports-feed
+DTSTAMP:20270116T203000Z
+DTSTART;TZID=America/New_York:20270116T153000
+DTEND;TZID=America/New_York:20270116T173000
+SUMMARY:🏀 UMass vs C Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911097/c-michigan-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921921@sports-feed
+DTSTAMP:20270116T210000Z
+DTSTART;TZID=America/New_York:20270116T160000
+DTEND;TZID=America/New_York:20270116T180000
+SUMMARY:🏀 Oregon @ Michigan St
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921921/oregon-michigan-st
+LOCATION:Breslin Center\, East Lansing\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910360@sports-feed
+DTSTAMP:20270117T203000Z
+DTSTART;TZID=America/New_York:20270117T153000
+DTEND;TZID=America/New_York:20270117T180000
+SUMMARY:🏀 Blazers @ Thunder
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910360/trail-blazers-thunder
+LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872267@sports-feed
+DTSTAMP:20270118T200000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+TRANSP:TRANSPARENT
+SUMMARY:⚽ China @ Kyrgyz Rep. (Asian Cup) · time TBD
+DESCRIPTION:China men's national team (away)\nAsian Cup\nhttps://www.espn.c
+ om/soccer/match/_/gameId/401872267/china-kyrgyz-republic
+LOCATION:Kingdom Arena\, King Fahd International Stadium\, Saudi Arabia
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921929@sports-feed
+DTSTAMP:20270120T000000Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:🏀 Oregon @ Michigan
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921929/oregon-michigan
+LOCATION:Crisler Center\, Ann Arbor\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911104@sports-feed
+DTSTAMP:20270120T000000Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:🏀 UMass @ Bowling Green
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911104/umass-bowling-green
+LOCATION:Stroh Center\, Bowling Green\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910371@sports-feed
+DTSTAMP:20270120T003000Z
+DTSTART;TZID=America/New_York:20270119T193000
+DTEND;TZID=America/New_York:20270119T220000
+SUMMARY:🏀 Blazers @ Heat
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910371/trail-blazers-heat
+LOCATION:Kaseya Center\, Miami\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910375@sports-feed
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/New_York:20270120T190000
+DTEND;TZID=America/New_York:20270120T213000
+SUMMARY:🏀 Blazers @ Hawks
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910375/trail-blazers-hawks
+LOCATION:State Farm Arena\, Atlanta\, GA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910391@sports-feed
+DTSTAMP:20270123T000000Z
+DTSTART;TZID=America/New_York:20270122T190000
+DTEND;TZID=America/New_York:20270122T213000
+SUMMARY:🏀 Blazers @ Magic
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910391/trail-blazers-magic
+LOCATION:Kia Center\, Orlando\, FL
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911109@sports-feed
+DTSTAMP:20270123T170000Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:🏀 UMass vs Ohio
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911109/ohio-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876344@sports-feed
+DTSTAMP:20270123T200000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ PSG (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876344/aj-auxerre-paris-saint-germain
+LOCATION:Parc des Princes\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921935@sports-feed
+DTSTAMP:20270124T000000Z
+DTSTART;TZID=America/New_York:20270123T190000
+DTEND;TZID=America/New_York:20270123T210000
+SUMMARY:🏀 Oregon vs Northwestern
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921935/northwestern-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910406@sports-feed
+DTSTAMP:20270124T203000Z
+DTSTART;TZID=America/New_York:20270124T153000
+DTEND;TZID=America/New_York:20270124T180000
+SUMMARY:🏀 Blazers @ Spurs
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910406/trail-blazers-spurs
+LOCATION:Frost Bank Center\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911111@sports-feed
+DTSTAMP:20270126T230000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:🏀 UMass vs Miami OH
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911111/miami-oh-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910426@sports-feed
+DTSTAMP:20270127T030000Z
+DTSTART;TZID=America/New_York:20270126T220000
+DTEND;TZID=America/New_York:20270127T003000
+SUMMARY:🏀 Blazers vs Wizards
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910426/wizards-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910436@sports-feed
+DTSTAMP:20270128T030000Z
+DTSTART;TZID=America/New_York:20270127T220000
+DTEND;TZID=America/New_York:20270128T003000
+SUMMARY:🏀 Blazers vs Warriors
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910436/warriors-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921945@sports-feed
+DTSTAMP:20270128T040000Z
+DTSTART;TZID=America/New_York:20270127T230000
+DTEND;TZID=America/New_York:20270128T010000
+SUMMARY:🏀 Oregon vs Rutgers
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921945/rutgers-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401926076@sports-feed
+DTSTAMP:20270130T050000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Oregon vs Gonzaga · time TBD
+DESCRIPTION:Oregon Ducks (men's basketball) (neutral site)\nNCAA\nhttps://w
+ ww.espn.com/mens-college-basketball/game/_/gameId/401926076/gonzaga-oregon
+LOCATION:Climate Pledge Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911118@sports-feed
+DTSTAMP:20270130T190000Z
+DTSTART;TZID=America/New_York:20270130T140000
+DTEND;TZID=America/New_York:20270130T160000
+SUMMARY:🏀 UMass @ Akron
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911118/umass-akron
+LOCATION:James A. Rhodes Arena\, Akron\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876334@sports-feed
+DTSTAMP:20270130T200000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Paris FC (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876334/aj-auxerre-paris-fc
+LOCATION:Stade Jean Bouin\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910465@sports-feed
+DTSTAMP:20270201T010000Z
+DTSTART;TZID=America/New_York:20270131T200000
+DTEND;TZID=America/New_York:20270131T223000
+SUMMARY:🏀 Blazers @ Nuggets
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910465/trail-blazers-nuggets
+LOCATION:Ball Arena\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911128@sports-feed
+DTSTAMP:20270203T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:🏀 UMass @ C Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911128/umass-c-michigan
+LOCATION:McGuirk Arena\, Mount Pleasant\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910481@sports-feed
+DTSTAMP:20270203T040000Z
+DTSTART;TZID=America/New_York:20270202T230000
+DTEND;TZID=America/New_York:20270203T013000
+SUMMARY:🏀 Blazers vs Timberwolves
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910481/timberwolves-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921865@sports-feed
+DTSTAMP:20270204T013000Z
+DTSTART;TZID=America/New_York:20270203T203000
+DTEND;TZID=America/New_York:20270203T223000
+SUMMARY:🏀 Oregon @ Wisconsin
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921865/oregon-wisconsin
+LOCATION:Kohl Center\, Madison\, WI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910496@sports-feed
+DTSTAMP:20270205T030000Z
+DTSTART;TZID=America/New_York:20270204T220000
+DTEND;TZID=America/New_York:20270205T003000
+SUMMARY:🏀 Blazers vs Cavaliers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910496/cavaliers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876331@sports-feed
+DTSTAMP:20270206T200000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Monaco (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876331/as-monaco-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910506@sports-feed
+DTSTAMP:20270206T223000Z
+DTSTART;TZID=America/New_York:20270206T173000
+DTEND;TZID=America/New_York:20270206T200000
+SUMMARY:🏀 Blazers @ Grizzlies
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910506/trail-blazers-grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921961@sports-feed
+DTSTAMP:20270207T213000Z
+DTSTART;TZID=America/New_York:20270207T163000
+DTEND;TZID=America/New_York:20270207T183000
+SUMMARY:🏀 Oregon vs Washington
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921961/washington-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910525@sports-feed
+DTSTAMP:20270209T010000Z
+DTSTART;TZID=America/New_York:20270208T200000
+DTEND;TZID=America/New_York:20270208T223000
+SUMMARY:🏀 Blazers @ Grizzlies
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910525/trail-blazers-grizzlies
+LOCATION:FedExForum\, Memphis\, TN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911130@sports-feed
+DTSTAMP:20270210T000000Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:🏀 UMass vs Kent State
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911130/kent-state-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910535@sports-feed
+DTSTAMP:20270210T010000Z
+DTSTART;TZID=America/New_York:20270209T200000
+DTEND;TZID=America/New_York:20270209T223000
+SUMMARY:🏀 Blazers @ Thunder
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910535/trail-blazers-thunder
+LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921965@sports-feed
+DTSTAMP:20270211T013000Z
+DTSTART;TZID=America/New_York:20270210T203000
+DTEND;TZID=America/New_York:20270210T223000
+SUMMARY:🏀 Oregon @ Iowa
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921965/oregon-iowa
+LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910548@sports-feed
+DTSTAMP:20270212T010000Z
+DTSTART;TZID=America/New_York:20270211T200000
+DTEND;TZID=America/New_York:20270211T223000
+SUMMARY:🏀 Blazers @ Mavericks
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910548/trail-blazers-mavericks
+LOCATION:American Airlines Center\, Dallas\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911139@sports-feed
+DTSTAMP:20270213T173000Z
+DTSTART;TZID=America/New_York:20270213T123000
+DTEND;TZID=America/New_York:20270213T143000
+SUMMARY:🏀 UMass vs E Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911139/e-michigan-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921971@sports-feed
+DTSTAMP:20270213T190000Z
+DTSTART;TZID=America/New_York:20270213T140000
+DTEND;TZID=America/New_York:20270213T160000
+SUMMARY:🏀 Oregon @ Minnesota
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921971/oregon-minnesota
+LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
+ , MN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876322@sports-feed
+DTSTAMP:20270213T200000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Strasbourg (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876322/strasbourg-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910562@sports-feed
+DTSTAMP:20270213T203000Z
+DTSTART;TZID=America/New_York:20270213T153000
+DTEND;TZID=America/New_York:20270213T180000
+SUMMARY:🏀 Blazers vs Pistons
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910562/pistons-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910573@sports-feed
+DTSTAMP:20270214T203000Z
+DTSTART;TZID=America/New_York:20270214T153000
+DTEND;TZID=America/New_York:20270214T180000
+SUMMARY:🏀 Blazers vs Bulls
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910573/bulls-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911145@sports-feed
+DTSTAMP:20270217T000000Z
+DTSTART;TZID=America/New_York:20270216T190000
+DTEND;TZID=America/New_York:20270216T210000
+SUMMARY:🏀 UMass @ Ball State
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911145/umass-ball-state
+LOCATION:Worthen Arena\, Muncie\, IN
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910581@sports-feed
+DTSTAMP:20270217T030000Z
+DTSTART;TZID=America/New_York:20270216T220000
+DTEND;TZID=America/New_York:20270217T003000
+SUMMARY:🏀 Blazers vs Pelicans
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910581/pelicans-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921979@sports-feed
+DTSTAMP:20270218T020000Z
+DTSTART;TZID=America/New_York:20270217T210000
+DTEND;TZID=America/New_York:20270217T230000
+SUMMARY:🏀 Oregon vs Maryland
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921979/maryland-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910599@sports-feed
+DTSTAMP:20270219T030000Z
+DTSTART;TZID=America/New_York:20270218T220000
+DTEND;TZID=America/New_York:20270219T003000
+SUMMARY:🏀 Blazers vs Pacers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910599/pacers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911150@sports-feed
+DTSTAMP:20270220T193000Z
+DTSTART;TZID=America/New_York:20270220T143000
+DTEND;TZID=America/New_York:20270220T163000
+SUMMARY:🏀 UMass @ W Michigan
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911150/umass-w-michigan
+LOCATION:University Arena (MI)\, Kalamazoo\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876308@sports-feed
+DTSTAMP:20270220T200000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Nice (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876308/aj-auxerre-nice
+LOCATION:Allianz Riviera\, Nice\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921984@sports-feed
+DTSTAMP:20270220T220000Z
+DTSTART;TZID=America/New_York:20270220T170000
+DTEND;TZID=America/New_York:20270220T190000
+SUMMARY:🏀 Oregon vs Illinois
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921984/illinois-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911154@sports-feed
+DTSTAMP:20270224T000000Z
+DTSTART;TZID=America/New_York:20270223T190000
+DTEND;TZID=America/New_York:20270223T210000
+SUMMARY:🏀 UMass vs Buffalo
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911154/buffalo-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921995@sports-feed
+DTSTAMP:20270225T033000Z
+DTSTART;TZID=America/New_York:20270224T223000
+DTEND;TZID=America/New_York:20270225T003000
+SUMMARY:🏀 Oregon vs Purdue
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401921995/purdue-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910616@sports-feed
+DTSTAMP:20270227T030000Z
+DTSTART;TZID=America/New_York:20270226T220000
+DTEND;TZID=America/New_York:20270227T003000
+SUMMARY:🏀 Blazers vs Mavericks
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910616/mavericks-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876304@sports-feed
+DTSTAMP:20270227T200000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Lille (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876304/lille-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401922001@sports-feed
+DTSTAMP:20270227T230000Z
+DTSTART;TZID=America/New_York:20270227T180000
+DTEND;TZID=America/New_York:20270227T200000
+SUMMARY:🏀 Oregon @ USC
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401922001/oregon-usc
+LOCATION:Galen Center\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911162@sports-feed
+DTSTAMP:20270227T230000Z
+DTSTART;TZID=America/New_York:20270227T180000
+DTEND;TZID=America/New_York:20270227T200000
+SUMMARY:🏀 UMass vs Bowling Green
+DESCRIPTION:UMass Minutemen (men's basketball) (home)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911162/bowling-green-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910631@sports-feed
+DTSTAMP:20270301T033000Z
+DTSTART;TZID=America/New_York:20270228T223000
+DTEND;TZID=America/New_York:20270301T010000
+SUMMARY:🏀 Blazers @ Clippers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910631/trail-blazers-clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911167@sports-feed
+DTSTAMP:20270303T000000Z
+DTSTART;TZID=America/New_York:20270302T190000
+DTEND;TZID=America/New_York:20270302T210000
+SUMMARY:🏀 UMass @ Toledo
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911167/umass-toledo
+LOCATION:Savage Arena\, Toledo\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910646@sports-feed
+DTSTAMP:20270303T040000Z
+DTSTART;TZID=America/New_York:20270302T230000
+DTEND;TZID=America/New_York:20270303T013000
+SUMMARY:🏀 Blazers vs Clippers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910646/clippers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401922007@sports-feed
+DTSTAMP:20270304T033000Z
+DTSTART;TZID=America/New_York:20270303T223000
+DTEND;TZID=America/New_York:20270304T003000
+SUMMARY:🏀 Oregon vs UCLA
+DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401922007/ucla-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910654@sports-feed
+DTSTAMP:20270305T000000Z
+DTSTART;TZID=America/New_York:20270304T190000
+DTEND;TZID=America/New_York:20270304T213000
+SUMMARY:🏀 Blazers @ Cavaliers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910654/trail-blazers-cavaliers
+LOCATION:Rocket Arena\, Cleveland\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911175@sports-feed
+DTSTAMP:20270305T050000Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+TRANSP:TRANSPARENT
+SUMMARY:🏀 UMass @ Miami OH · time TBD
+DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA\nhttps://www.es
+ pn.com/mens-college-basketball/game/_/gameId/401911175/umass-miami-oh
+LOCATION:Millett Hall\, Oxford\, OH
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910664@sports-feed
+DTSTAMP:20270306T003000Z
+DTSTART;TZID=America/New_York:20270305T193000
+DTEND;TZID=America/New_York:20270305T220000
+SUMMARY:🏀 Blazers @ Raptors
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910664/trail-blazers-raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876295@sports-feed
+DTSTAMP:20270306T200000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Angers (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876295/aj-auxerre-angers
+LOCATION:Stade Raymond Kopa\, Angers\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401922013@sports-feed
+DTSTAMP:20270307T030000Z
+DTSTART;TZID=America/New_York:20270306T220000
+DTEND;TZID=America/New_York:20270307T000000
+SUMMARY:🏀 Oregon @ Washington
+DESCRIPTION:Oregon Ducks (men's basketball) (away)\nNCAA\nhttps://www.espn.
+ com/mens-college-basketball/game/_/gameId/401922013/oregon-washington
+LOCATION:Alaska Airlines Arena\, Seattle\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910677@sports-feed
+DTSTAMP:20270307T220000Z
+DTSTART;TZID=America/New_York:20270307T170000
+DTEND;TZID=America/New_York:20270307T193000
+SUMMARY:🏀 Blazers @ Bulls
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910677/trail-blazers-bulls
+LOCATION:United Center\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910695@sports-feed
+DTSTAMP:20270310T040000Z
+DTSTART;TZID=America/New_York:20270309T230000
+DTEND;TZID=America/New_York:20270310T013000
+SUMMARY:🏀 Blazers @ Warriors
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910695/trail-blazers-warriors
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910701@sports-feed
+DTSTAMP:20270311T030000Z
+DTSTART;TZID=America/New_York:20270310T220000
+DTEND;TZID=America/New_York:20270311T003000
+SUMMARY:🏀 Blazers vs Nuggets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910701/nuggets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876286@sports-feed
+DTSTAMP:20270313T200000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs PSG (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876286/paris-saint-germain-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910726@sports-feed
+DTSTAMP:20270314T033000Z
+DTSTART;TZID=America/New_York:20270313T223000
+DTEND;TZID=America/New_York:20270314T010000
+SUMMARY:🏀 Blazers vs Clippers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910726/clippers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910747@sports-feed
+DTSTAMP:20270317T020000Z
+DTSTART;TZID=America/New_York:20270316T220000
+DTEND;TZID=America/New_York:20270317T003000
+SUMMARY:🏀 Blazers vs Lakers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910747/lakers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910756@sports-feed
+DTSTAMP:20270318T020000Z
+DTSTART;TZID=America/New_York:20270317T220000
+DTEND;TZID=America/New_York:20270318T003000
+SUMMARY:🏀 Blazers vs Heat
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910756/heat-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910769@sports-feed
+DTSTAMP:20270320T020000Z
+DTSTART;TZID=America/New_York:20270319T220000
+DTEND;TZID=America/New_York:20270320T003000
+SUMMARY:🏀 Blazers @ Warriors
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910769/trail-blazers-warriors
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876270@sports-feed
+DTSTAMP:20270320T180000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Troyes (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876270/aj-auxerre-troyes
+LOCATION:Stade de l'Aube\, Paris\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910782@sports-feed
+DTSTAMP:20270321T210000Z
+DTSTART;TZID=America/New_York:20270321T170000
+DTEND;TZID=America/New_York:20270321T193000
+SUMMARY:🏀 Blazers @ Suns
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910782/trail-blazers-suns
+LOCATION:Mortgage Matchup Center\, Phoenix\, AZ
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910798@sports-feed
+DTSTAMP:20270324T020000Z
+DTSTART;TZID=America/New_York:20270323T220000
+DTEND;TZID=America/New_York:20270324T003000
+SUMMARY:🏀 Blazers vs Raptors
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910798/raptors-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910823@sports-feed
+DTSTAMP:20270327T020000Z
+DTSTART;TZID=America/New_York:20270326T220000
+DTEND;TZID=America/New_York:20270327T003000
+SUMMARY:🏀 Blazers vs 76ers
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910823/76ers-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910829@sports-feed
+DTSTAMP:20270328T020000Z
+DTSTART;TZID=America/New_York:20270327T220000
+DTEND;TZID=America/New_York:20270328T003000
+SUMMARY:🏀 Blazers vs Bucks
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910829/bucks-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910853@sports-feed
+DTSTAMP:20270331T030000Z
+DTSTART;TZID=America/New_York:20270330T230000
+DTEND;TZID=America/New_York:20270331T013000
+SUMMARY:🏀 Blazers vs Rockets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910853/rockets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910863@sports-feed
+DTSTAMP:20270401T020000Z
+DTSTART;TZID=America/New_York:20270331T220000
+DTEND;TZID=America/New_York:20270401T003000
+SUMMARY:🏀 Blazers vs Rockets
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910863/rockets-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910878@sports-feed
+DTSTAMP:20270403T020000Z
+DTSTART;TZID=America/New_York:20270402T220000
+DTEND;TZID=America/New_York:20270403T003000
+SUMMARY:🏀 Blazers vs Jazz
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910878/jazz-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876267@sports-feed
+DTSTAMP:20270403T180000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Lens (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876267/lens-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910891@sports-feed
+DTSTAMP:20270404T210000Z
+DTSTART;TZID=America/New_York:20270404T170000
+DTEND;TZID=America/New_York:20270404T193000
+SUMMARY:🏀 Blazers @ Jazz
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910891/trail-blazers-jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910917@sports-feed
+DTSTAMP:20270408T020000Z
+DTSTART;TZID=America/New_York:20270407T220000
+DTEND;TZID=America/New_York:20270408T003000
+SUMMARY:🏀 Blazers vs Mavericks
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910917/mavericks-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910931@sports-feed
+DTSTAMP:20270410T003000Z
+DTSTART;TZID=America/New_York:20270409T203000
+DTEND;TZID=America/New_York:20270409T230000
+SUMMARY:🏀 Blazers @ Rockets
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910931/trail-blazers-rockets
+LOCATION:Toyota Center (Houston)\, Houston\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876259@sports-feed
+DTSTAMP:20270410T180000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Le Mans (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876259/aj-auxerre-le-mans
+LOCATION:Stade Marie-Marvingt\, Le Mans\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910947@sports-feed
+DTSTAMP:20270412T003000Z
+DTSTART;TZID=America/New_York:20270411T203000
+DTEND;TZID=America/New_York:20270411T230000
+SUMMARY:🏀 Blazers @ Spurs
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910947/trail-blazers-spurs
+LOCATION:Frost Bank Center\, San Antonio\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876249@sports-feed
+DTSTAMP:20270417T180000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Lorient (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876249/lorient-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876237@sports-feed
+DTSTAMP:20270424T180000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Marseille (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876237/aj-auxerre-marseille
+LOCATION:Stade Vélodrome\, Marseille\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876232@sports-feed
+DTSTAMP:20270501T180000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Lyon (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876232/lyon-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876222@sports-feed
+DTSTAMP:20270508T180000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Brest (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876222/aj-auxerre-brest
+LOCATION:Stade Francis-Le Blé\, Brest\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876214@sports-feed
+DTSTAMP:20270516T180000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Rennes (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876214/stade-rennais-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876198@sports-feed
+DTSTAMP:20270522T180000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre @ Toulouse (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876198/aj-auxerre-toulouse
+LOCATION:Stadium Municipal de Toulouse\, Toulouse\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876196@sports-feed
+DTSTAMP:20270529T180000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Auxerre vs Le Havre AC (Ligue 1) · time TBD
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876196/le-havre-ac-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
 END:VCALENDAR
