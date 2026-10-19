@@ -240,9 +240,8 @@ DTSTAMP:20261103T000000Z
 DTSTART;TZID=America/New_York:20261102T190000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:🏀 UMass @ Troy
-DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA · MAC-SBC Chal
- lenge\nhttps://www.espn.com/mens-college-basketball/game/_/gameId/40191100
- 1/umass-troy
+DESCRIPTION:UMass Minutemen (away)\nNCAA · MAC-SBC Challenge\nhttps://www.
+ espn.com/mens-college-basketball/game/_/gameId/401911001/umass-troy
 LOCATION:Trojan Arena\, Troy\, AL
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +260,8 @@ DTSTAMP:20261103T030000Z
 DTSTART;TZID=America/New_York:20261102T220000
 DTEND;TZID=America/New_York:20261103T000000
 SUMMARY:🏀 Oregon vs Montana
-DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
- com/mens-college-basketball/game/_/gameId/401922029/montana-oregon
+DESCRIPTION:Oregon Ducks (home)\nNCAA\nhttps://www.espn.com/mens-college-ba
+ sketball/game/_/gameId/401922029/montana-oregon
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 END:VEVENT
 BEGIN:VEVENT
@@ -282,8 +281,8 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 TRANSP:TRANSPARENT
 SUMMARY:🏀 Oregon vs E Washington · time TBD
-DESCRIPTION:Oregon Ducks (men's basketball) (home)\nNCAA\nhttps://www.espn.
- com/mens-college-basketball/game/_/gameId/401920717/e-washington-oregon
+DESCRIPTION:Oregon Ducks (home)\nNCAA\nhttps://www.espn.com/mens-college-ba
+ sketball/game/_/gameId/401920717/e-washington-oregon
 LOCATION:Matthew Knight Arena\, Eugene\, OR
 END:VEVENT
 BEGIN:VEVENT
@@ -292,9 +291,9 @@ DTSTAMP:20261106T210000Z
 DTSTART;TZID=America/New_York:20261106T160000
 DTEND;TZID=America/New_York:20261106T180000
 SUMMARY:🏀 UMass vs Boston College
-DESCRIPTION:UMass Minutemen (men's basketball) (away)\nNCAA · Hall of Fame
-  Series - Boston\nhttps://www.espn.com/mens-college-basketball/game/_/game
- Id/401909552/umass-boston-college
+DESCRIPTION:UMass Minutemen (away)\nNCAA · Hall of Fame Series - Boston\nh
+ ttps://www.espn.com/mens-college-basketball/game/_/gameId/401909552/umass-
+ boston-college
 LOCATION:TD Garden\, Boston\, MA
 END:VEVENT
 BEGIN:VEVENT

@@ -432,7 +432,7 @@
   {
    "uid": "espn-401911001",
    "team": "umass-mbb",
-   "teamName": "UMass Minutemen (men's basketball)",
+   "teamName": "UMass Minutemen",
    "teamShort": "UMass",
    "sport": "mbb",
    "title": "🏀 UMass @ Troy",
@@ -472,7 +472,7 @@
   {
    "uid": "espn-401922029",
    "team": "oregon-mbb",
-   "teamName": "Oregon Ducks (men's basketball)",
+   "teamName": "Oregon Ducks",
    "teamShort": "Oregon",
    "sport": "mbb",
    "title": "🏀 Oregon vs Montana",
@@ -512,7 +512,7 @@
   {
    "uid": "espn-401920717",
    "team": "oregon-mbb",
-   "teamName": "Oregon Ducks (men's basketball)",
+   "teamName": "Oregon Ducks",
    "teamShort": "Oregon",
    "sport": "mbb",
    "title": "🏀 Oregon vs E Washington · time TBD",
@@ -532,7 +532,7 @@
   {
    "uid": "espn-401909552",
    "team": "umass-mbb",
-   "teamName": "UMass Minutemen (men's basketball)",
+   "teamName": "UMass Minutemen",
    "teamShort": "UMass",
    "sport": "mbb",
    "title": "🏀 UMass vs Boston College",
