@@ -15,6 +15,7 @@ from zoneinfo import ZoneInfo
 ROOT = os.path.dirname(os.path.abspath(__file__))
 ET = ZoneInfo("America/New_York")
 KEEP_PAST_DAYS = 45
+HORIZON_DAYS = int(os.environ.get("HORIZON_DAYS", "21"))  # how far ahead the feed looks
 UA = {"User-Agent": "Mozilla/5.0 (sports-feed calendar builder)"}
 
 SPORTS = {
@@ -306,7 +307,8 @@ def main():
         games.setdefault(g["uid"], g)
 
     cutoff = now - timedelta(days=KEEP_PAST_DAYS)
-    out = sorted((g for g in games.values() if datetime.fromisoformat(g["start"]) >= cutoff), key=lambda g: g["start"])
+    horizon = now + timedelta(days=HORIZON_DAYS)
+    out = sorted((g for g in games.values() if cutoff <= datetime.fromisoformat(g["start"]) <= horizon), key=lambda g: g["start"])
     summary = {}
     for g in out:
         summary.setdefault(g["team"], 0)

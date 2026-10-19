@@ -1,10 +1,9 @@
 name: Refresh calendar
 
 on:
-  schedule:
-    - cron: "17 10,22 * * *"   # about 6am and 6pm Eastern
+  # Runs when the biweekly Claude sweep pushes sweep.txt (or the team list changes).
   push:
-    paths: ["teams.json", "extra_games.json", "build_feed.py"]
+    paths: ["sweep.txt", "teams.json", "extra_games.json", "build_feed.py"]
   workflow_dispatch:
 
 permissions:
