@@ -1,0 +1,9 @@
+[
+ {"key": "por-blazers", "name": "Portland Trail Blazers", "short": "Blazers", "sport": "nba", "espn_id": "22", "active": true},
+ {"key": "auxerre", "name": "AJ Auxerre", "short": "Auxerre", "sport": "soccer", "espn_id": "172", "active": true},
+ {"key": "oregon-mbb", "name": "Oregon Ducks (men's basketball)", "short": "Oregon", "sport": "mbb", "espn_id": "2483", "active": true},
+ {"key": "umass-mbb", "name": "UMass Minutemen (men's basketball)", "short": "UMass", "sport": "mbb", "espn_id": "113", "active": true},
+ {"key": "zhejiang", "name": "Zhejiang Professional FC", "short": "Zhejiang", "sport": "soccer", "espn_id": "18203", "active": true},
+ {"key": "china-men", "name": "China men's national team", "short": "China", "sport": "soccer-national", "espn_id": "658", "active": true},
+ {"key": "china-u21", "name": "China U21", "short": "China U21", "sport": "soccer-national", "espn_id": "19215", "active": true}
+]
