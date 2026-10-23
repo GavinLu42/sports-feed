@@ -19,10 +19,10 @@ HORIZON_DAYS = int(os.environ.get("HORIZON_DAYS", "21"))  # how far ahead the fe
 UA = {"User-Agent": "Mozilla/5.0 (sports-feed calendar builder)"}
 
 SPORTS = {
-    "nba":    {"path": "basketball/nba", "emoji": "🏀", "hours": 2.5, "seasontypes": [2, 3, 5], "label": "NBA"},
-    "wnba":   {"path": "basketball/wnba", "emoji": "🏀", "hours": 2.0, "seasontypes": [2, 3], "label": "WNBA"},
-    "mbb":    {"path": "basketball/mens-college-basketball", "emoji": "🏀", "hours": 2.0, "seasontypes": [2, 3], "label": "NCAA"},
-    "wbb":    {"path": "basketball/womens-college-basketball", "emoji": "🏀", "hours": 2.0, "seasontypes": [2, 3], "label": "NCAAW"},
+    "nba":    {"path": "basketball/nba", "emoji": "🏀", "hours": 2.5, "seasontypes": [1, 2, 3, 5], "label": "NBA"},
+    "wnba":   {"path": "basketball/wnba", "emoji": "🏀", "hours": 2.0, "seasontypes": [1, 2, 3], "label": "WNBA"},
+    "mbb":    {"path": "basketball/mens-college-basketball", "emoji": "🏀", "hours": 2.0, "seasontypes": [1, 2, 3], "label": "NCAA"},
+    "wbb":    {"path": "basketball/womens-college-basketball", "emoji": "🏀", "hours": 2.0, "seasontypes": [1, 2, 3], "label": "NCAAW"},
     "soccer": {"path": "soccer/all", "emoji": "⚽", "hours": 2.0, "seasontypes": None, "label": "Soccer"},
 }
 SPORTS["soccer-national"] = SPORTS["soccer"]
@@ -120,6 +120,8 @@ def parse_event(ev, team, cfg):
             break
 
     title = f"{cfg['emoji']} {team['short']} {sep} {opp_name}"
+    if not team["sport"].startswith("soccer") and str((ev.get("seasonType") or {}).get("type") or (ev.get("seasonType") or {}).get("id")) == "1":
+        competition = "Exhibition" if team["sport"] in ("mbb", "wbb") else "Preseason"
     if competition:
         title += f" ({competition})"
     if status_name == "STATUS_POSTPONED":
@@ -171,7 +173,8 @@ def manual_games(extra, teams_by_key):
             start = datetime.fromisoformat(g["date"]).replace(tzinfo=ET)
         else:
             start = datetime.fromisoformat(g["start"].replace("Z", "+00:00")).astimezone(ET)
-        title = g.get("title") or f"{cfg['emoji']} {t['short']} vs {g.get('opponent', 'TBD')}"
+        sep = "vs" if g.get("home", True) or g.get("neutral") else "@"
+        title = g.get("title") or f"{cfg['emoji']} {t['short']} {sep} {g.get('opponent', 'TBD')}"
         if g.get("competition") and "(" not in title:
             title += f" ({g['competition']})"
         if all_day and "TBD" not in title:

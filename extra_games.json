@@ -1,1 +1,12 @@
-[]
+[
+ {
+  "id": "manual-umass-mbb-2026-10-23",
+  "team": "umass-mbb",
+  "opponent": "Harvard",
+  "competition": "Exhibition",
+  "home": false,
+  "start": "2026-10-23T19:00:00-04:00",
+  "location": "Lavietes Pavilion, Cambridge, MA",
+  "url": "https://www.seaportboston.com/events/boston/umass-minutemen-vs-harvard-crimson-mens-basketball-exhibition-12791902"
+ }
+]
