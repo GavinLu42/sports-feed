@@ -95,6 +95,16 @@ DESCRIPTION:AJ Auxerre (home)\nClub Friendly\nhttps://www.espn.com/soccer/m
  atch/_/gameId/401927858/clermont-foot-aj-auxerre
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401914127@sports-feed
+DTSTAMP:20261004T230000Z
+DTSTART;TZID=America/New_York:20261004T190000
+DTEND;TZID=America/New_York:20261004T213000
+SUMMARY:🏀 Nuggets vs Jazz (Preseason)
+DESCRIPTION:Denver Nuggets (home)\nPreseason\nhttps://www.espn.com/nba/game
+ /_/gameId/401914127/jazz-nuggets
+LOCATION:CU Events Center\, Boulder\, CO
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401914140@sports-feed
 DTSTAMP:20261006T113500Z
 DTSTART;TZID=America/New_York:20261006T073500
@@ -103,6 +113,26 @@ SUMMARY:⚽ China vs Tajikistan (Friendly)
 DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
  m/soccer/match/_/gameId/401914140/tajikistan-china
 LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914128@sports-feed
+DTSTAMP:20261007T010000Z
+DTSTART;TZID=America/New_York:20261006T210000
+DTEND;TZID=America/New_York:20261006T233000
+SUMMARY:🏀 Nuggets @ Jazz (Preseason)
+DESCRIPTION:Denver Nuggets (away)\nPreseason\nhttps://www.espn.com/nba/game
+ /_/gameId/401914128/nuggets-jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914129@sports-feed
+DTSTAMP:20261008T020000Z
+DTSTART;TZID=America/New_York:20261007T220000
+DTEND;TZID=America/New_York:20261008T003000
+SUMMARY:🏀 Blazers vs Warriors (Preseason)
+DESCRIPTION:Portland Trail Blazers (home)\nPreseason\nhttps://www.espn.com/
+ nba/game/_/gameId/401914129/warriors-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401861472@sports-feed
@@ -123,6 +153,66 @@ SUMMARY:⚽ Auxerre @ Rennes (Ligue 1)
 DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
  /gameId/401876441/aj-auxerre-stade-rennais
 LOCATION:Roazhon Park\, Rennes\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401908941@sports-feed
+DTSTAMP:20261012T010000Z
+DTSTART;TZID=America/New_York:20261011T210000
+DTEND;TZID=America/New_York:20261011T233000
+SUMMARY:🏀 Nuggets vs Bulls (Preseason)
+DESCRIPTION:Denver Nuggets (home)\nPreseason\nhttps://www.espn.com/nba/game
+ /_/gameId/401908941/bulls-nuggets
+LOCATION:Ball Arena\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401914130@sports-feed
+DTSTAMP:20261012T200000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:🏀 Blazers vs Lions (Preseason)
+DESCRIPTION:Portland Trail Blazers (home)\nPreseason\nhttps://www.espn.com/
+ nba/game/_/gameId/401914130/lions-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401901826@sports-feed
+DTSTAMP:20261014T020000Z
+DTSTART;TZID=America/New_York:20261013T220000
+DTEND;TZID=America/New_York:20261014T003000
+SUMMARY:🏀 Blazers @ Kings (Preseason)
+DESCRIPTION:Portland Trail Blazers (away)\nPreseason\nhttps://www.espn.com/
+ nba/game/_/gameId/401901826/trail-blazers-kings
+LOCATION:Golden 1 Center\, Sacramento\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401918011@sports-feed
+DTSTAMP:20261015T023000Z
+DTSTART;TZID=America/New_York:20261014T223000
+DTEND;TZID=America/New_York:20261015T010000
+SUMMARY:🏀 Nuggets @ Clippers (Preseason)
+DESCRIPTION:Denver Nuggets (away)\nPreseason\nhttps://www.espn.com/nba/game
+ /_/gameId/401918011/nuggets-clippers
+LOCATION:Intuit Dome\, Inglewood\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401898409@sports-feed
+DTSTAMP:20261017T020000Z
+DTSTART;TZID=America/New_York:20261016T220000
+DTEND;TZID=America/New_York:20261017T003000
+SUMMARY:🏀 Blazers @ Warriors (Preseason)
+DESCRIPTION:Portland Trail Blazers (away)\nPreseason\nhttps://www.espn.com/
+ nba/game/_/gameId/401898409/trail-blazers-warriors
+LOCATION:Chase Center\, San Francisco\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401898719@sports-feed
+DTSTAMP:20261017T023000Z
+DTSTART;TZID=America/New_York:20261016T223000
+DTEND;TZID=America/New_York:20261017T010000
+SUMMARY:🏀 Nuggets @ Lakers (Preseason)
+DESCRIPTION:Denver Nuggets (away)\nPreseason\nhttps://www.espn.com/nba/game
+ /_/gameId/401898719/nuggets-lakers
+LOCATION:crypto.com Arena\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401861479@sports-feed
@@ -163,6 +253,17 @@ SUMMARY:🏀 Nuggets @ Thunder
 DESCRIPTION:Denver Nuggets (away)\nNBA\nhttps://www.espn.com/nba/game/_/gam
  eId/401909094/nuggets-thunder
 LOCATION:Paycom Center\, Oklahoma City\, OK
+END:VEVENT
+BEGIN:VEVENT
+UID:manual-umass-mbb-2026-10-23@sports-feed
+DTSTAMP:20261023T230000Z
+DTSTART;TZID=America/New_York:20261023T190000
+DTEND;TZID=America/New_York:20261023T210000
+SUMMARY:🏀 UMass @ Harvard (Exhibition)
+DESCRIPTION:UMass Minutemen (away)\nExhibition\nhttps://www.seaportboston.c
+ om/events/boston/umass-minutemen-vs-harvard-crimson-mens-basketball-exhibi
+ tion-12791902
+LOCATION:Lavietes Pavilion\, Cambridge\, MA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909852@sports-feed
