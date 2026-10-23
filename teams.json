@@ -5,5 +5,6 @@
  {"key": "umass-mbb", "name": "UMass Minutemen", "short": "UMass", "sport": "mbb", "espn_id": "113", "active": true},
  {"key": "zhejiang", "name": "Zhejiang Professional FC", "short": "Zhejiang", "sport": "soccer", "espn_id": "18203", "active": true},
  {"key": "china-men", "name": "China men's national team", "short": "China", "sport": "soccer-national", "espn_id": "658", "active": true},
- {"key": "china-u21", "name": "China U21", "short": "China U21", "sport": "soccer-national", "espn_id": "19215", "active": true}
+ {"key": "china-u21", "name": "China U21", "short": "China U21", "sport": "soccer-national", "espn_id": "19215", "active": true},
+ {"key": "denver-nuggets", "name": "Denver Nuggets", "short": "Nuggets", "sport": "nba", "espn_id": "7", "active": true}
 ]
