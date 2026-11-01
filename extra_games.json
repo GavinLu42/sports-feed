@@ -30,5 +30,16 @@
   "location": "Tianhe Sports Centre Stadium, Guangzhou",
   "url": "https://www.gdnonline.com/Details/1409949/Bahrain-set-for-four-nation-China-tournament",
   "note": "CFA Team China Guangzhou International Invitational"
+ },
+ {
+  "id": "manual-zhejiang-2026-11-08",
+  "team": "zhejiang",
+  "opponent": "Henan",
+  "competition": "CSL",
+  "home": true,
+  "date": "2026-11-08",
+  "location": "Huizhou Olympic Stadium, Huizhou",
+  "url": "https://www.foresportia.com/en/prediction/chinese-super-league/zhejiang-fc-henan-fc-2026-11-08/",
+  "note": "Matchday 30; dropped from ESPN feed, kickoff time unconfirmed"
  }
 ]
