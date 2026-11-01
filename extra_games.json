@@ -8,5 +8,27 @@
   "start": "2026-10-23T19:00:00-04:00",
   "location": "Lavietes Pavilion, Cambridge, MA",
   "url": "https://www.seaportboston.com/events/boston/umass-minutemen-vs-harvard-crimson-mens-basketball-exhibition-12791902"
+ },
+ {
+  "id": "manual-china-men-2026-11-14",
+  "team": "china-men",
+  "opponent": "Malaysia",
+  "competition": "Friendly",
+  "home": true,
+  "date": "2026-11-14",
+  "location": "Tianhe Sports Centre Stadium, Guangzhou",
+  "url": "https://www.gdnonline.com/Details/1409949/Bahrain-set-for-four-nation-China-tournament",
+  "note": "CFA Team China Guangzhou International Invitational"
+ },
+ {
+  "id": "manual-china-men-2026-11-17",
+  "team": "china-men",
+  "opponent": "Bahrain",
+  "competition": "Friendly",
+  "home": true,
+  "date": "2026-11-17",
+  "location": "Tianhe Sports Centre Stadium, Guangzhou",
+  "url": "https://www.gdnonline.com/Details/1409949/Bahrain-set-for-four-nation-China-tournament",
+  "note": "CFA Team China Guangzhou International Invitational"
  }
 ]
