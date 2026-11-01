@@ -1,6 +1,6 @@
 {
  "upcomingByTeam": {
-  "zhejiang": 0,
+  "zhejiang": 1,
   "auxerre": 3,
   "china-men": 2,
   "denver-nuggets": 8,
@@ -909,6 +909,26 @@
    "location": "Moda Center, Portland, OR",
    "url": "https://www.espn.com/nba/game/_/gameId/401909944/spurs-trail-blazers",
    "source": "espn"
+  },
+  {
+   "uid": "manual-zhejiang-2026-11-08",
+   "team": "zhejiang",
+   "teamName": "Zhejiang Professional FC",
+   "teamShort": "Zhejiang",
+   "sport": "soccer",
+   "title": "⚽ Zhejiang vs Henan (CSL) · time TBD",
+   "opponent": "Henan",
+   "home": true,
+   "neutral": false,
+   "competition": "CSL",
+   "note": "Matchday 30; dropped from ESPN feed, kickoff time unconfirmed",
+   "start": "2026-11-08T00:00:00-05:00",
+   "allDay": true,
+   "hours": 2.0,
+   "status": "STATUS_SCHEDULED",
+   "location": "Huizhou Olympic Stadium, Huizhou",
+   "url": "https://www.foresportia.com/en/prediction/chinese-super-league/zhejiang-fc-henan-fc-2026-11-08/",
+   "source": "manual"
   },
   {
    "uid": "espn-401909957",

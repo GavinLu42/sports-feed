@@ -477,6 +477,18 @@ DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
 LOCATION:Moda Center\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
+UID:manual-zhejiang-2026-11-08@sports-feed
+DTSTAMP:20261108T050000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:⚽ Zhejiang vs Henan (CSL) · time TBD
+DESCRIPTION:Zhejiang Professional FC (home)\nCSL · Matchday 30\; dropped f
+ rom ESPN feed\, kickoff time unconfirmed\nhttps://www.foresportia.com/en/p
+ rediction/chinese-super-league/zhejiang-fc-henan-fc-2026-11-08/
+LOCATION:Huizhou Olympic Stadium\, Huizhou
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401909957@sports-feed
 DTSTAMP:20261110T013000Z
 DTSTART;TZID=America/New_York:20261109T203000
