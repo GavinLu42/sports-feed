@@ -26,46 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:espn-401861443@sports-feed
-DTSTAMP:20260918T113500Z
-DTSTART;TZID=America/New_York:20260918T073500
-DTEND;TZID=America/New_York:20260918T093500
-SUMMARY:⚽ Zhejiang vs Wuhan TT (CSL)
-DESCRIPTION:Zhejiang Professional FC (home)\nCSL\nhttps://www.espn.com/socc
- er/match/_/gameId/401861443/wuhan-three-towns-zhejiang-professional-fc
-LOCATION:Yellow Dragon Sports Center Stadium\, Hangzhou\, China PR
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401876456@sports-feed
-DTSTAMP:20260920T130000Z
-DTSTART;TZID=America/New_York:20260920T090000
-DTEND;TZID=America/New_York:20260920T110000
-SUMMARY:⚽ Auxerre vs Brest (Ligue 1)
-DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
- /gameId/401876456/brest-aj-auxerre
-LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401914222@sports-feed
-DTSTAMP:20260924T113500Z
-DTSTART;TZID=America/New_York:20260924T073500
-DTEND;TZID=America/New_York:20260924T093500
-SUMMARY:⚽ China vs Maldives (Friendly)
-DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
- m/soccer/match/_/gameId/401914222/maldives-china
-LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401914142@sports-feed
-DTSTAMP:20260927T113500Z
-DTSTART;TZID=America/New_York:20260927T073500
-DTEND;TZID=America/New_York:20260927T093500
-SUMMARY:⚽ China vs New Zealand (Friendly)
-DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
- m/soccer/match/_/gameId/401914142/new-zealand-china
-LOCATION:Chongqing Longxing Football Stadium\, Chongqing\, China PR
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401914141@sports-feed
 DTSTAMP:20261002T113500Z
 DTSTART;TZID=America/New_York:20261002T073500
@@ -448,9 +408,9 @@ LOCATION:crypto.com Arena\, Los Angeles\, CA
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401876411@sports-feed
-DTSTAMP:20261107T161500Z
-DTSTART;TZID=America/New_York:20261107T111500
-DTEND;TZID=America/New_York:20261107T131500
+DTSTAMP:20261107T180000Z
+DTSTART;TZID=America/New_York:20261107T130000
+DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:⚽ Auxerre vs Paris FC (Ligue 1)
 DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
  /gameId/401876411/paris-fc-aj-auxerre
@@ -477,16 +437,14 @@ DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
 LOCATION:Moda Center\, Portland\, OR
 END:VEVENT
 BEGIN:VEVENT
-UID:manual-zhejiang-2026-11-08@sports-feed
-DTSTAMP:20261108T050000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-TRANSP:TRANSPARENT
-SUMMARY:⚽ Zhejiang vs Henan (CSL) · time TBD
-DESCRIPTION:Zhejiang Professional FC (home)\nCSL · Matchday 30\; dropped f
- rom ESPN feed\, kickoff time unconfirmed\nhttps://www.foresportia.com/en/p
- rediction/chinese-super-league/zhejiang-fc-henan-fc-2026-11-08/
-LOCATION:Huizhou Olympic Stadium\, Huizhou
+UID:espn-401861491@sports-feed
+DTSTAMP:20261108T073000Z
+DTSTART;TZID=America/New_York:20261108T023000
+DTEND;TZID=America/New_York:20261108T043000
+SUMMARY:⚽ Zhejiang vs Henan (CSL)
+DESCRIPTION:Zhejiang Professional FC (home)\nCSL\nhttps://www.espn.com/socc
+ er/match/_/gameId/401861491/henan-zhejiang-professional-fc
+LOCATION:Yellow Dragon Sports Center Stadium\, Hangzhou\, China PR
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909957@sports-feed
@@ -566,7 +524,7 @@ DTEND;TZID=America/New_York:20261114T090000
 SUMMARY:⚽ China vs Malaysia (Friendly)
 DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
  m/soccer/match/_/gameId/401930236/malaysia-china
-LOCATION:Tianhe Stadium\, Guangzhou\, China PR
+LOCATION:Zhaoqing New District Sports Center Stadium\, Zhaoqing\, China PR
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401909980@sports-feed
@@ -616,7 +574,7 @@ DTEND;TZID=America/New_York:20261117T090000
 SUMMARY:⚽ China vs Bahrain (Friendly)
 DESCRIPTION:China men's national team (home)\nFriendly\nhttps://www.espn.co
  m/soccer/match/_/gameId/401930880/bahrain-china
-LOCATION:Tianhe Stadium\, Guangzhou\, China PR
+LOCATION:Zhaoqing New District Sports Center Stadium\, Zhaoqing\, China PR
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401911020@sports-feed
@@ -640,9 +598,9 @@ LOCATION:Target Center\, Minneapolis\, MN
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910015@sports-feed
-DTSTAMP:20261119T020000Z
-DTSTART;TZID=America/New_York:20261118T210000
-DTEND;TZID=America/New_York:20261118T233000
+DTSTAMP:20261119T023000Z
+DTSTART;TZID=America/New_York:20261118T213000
+DTEND;TZID=America/New_York:20261119T000000
 SUMMARY:🏀 Nuggets vs Celtics
 DESCRIPTION:Denver Nuggets (home)\nNBA\nhttps://www.espn.com/nba/game/_/gam
  eId/401910015/celtics-nuggets
@@ -707,5 +665,195 @@ SUMMARY:🏀 Blazers @ Knicks
 DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
  me/_/gameId/401910024/trail-blazers-knicks
 LOCATION:Madison Square Garden\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910032@sports-feed
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=America/New_York:20261122T190000
+DTEND;TZID=America/New_York:20261122T213000
+SUMMARY:🏀 Nuggets @ Bulls
+DESCRIPTION:Denver Nuggets (away)\nNBA\nhttps://www.espn.com/nba/game/_/gam
+ eId/401910032/nuggets-bulls
+LOCATION:United Center\, Chicago\, IL
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910037@sports-feed
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/New_York:20261123T190000
+DTEND;TZID=America/New_York:20261123T213000
+SUMMARY:🏀 Blazers @ 76ers
+DESCRIPTION:Portland Trail Blazers (away)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910037/trail-blazers-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909316@sports-feed
+DTSTAMP:20261125T030000Z
+DTSTART;TZID=America/New_York:20261124T220000
+DTEND;TZID=America/New_York:20261125T003000
+SUMMARY:🏀 Nuggets vs Mavericks
+DESCRIPTION:Denver Nuggets (home)\nNBA · NBA Cup - Group Play\nhttps://www
+ .espn.com/nba/game/_/gameId/401909316/mavericks-nuggets
+LOCATION:Ball Arena\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915943@sports-feed
+DTSTAMP:20261125T033000Z
+DTSTART;TZID=America/New_York:20261124T223000
+DTEND;TZID=America/New_York:20261125T003000
+SUMMARY:🏀 Oregon vs St John's
+DESCRIPTION:Oregon Ducks (away)\nNCAA · Players Era 16\nhttps://www.espn.c
+ om/mens-college-basketball/game/_/gameId/401915943/oregon-st-johns
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909325@sports-feed
+DTSTAMP:20261126T030000Z
+DTSTART;TZID=America/New_York:20261125T220000
+DTEND;TZID=America/New_York:20261126T003000
+SUMMARY:🏀 Blazers vs Spurs
+DESCRIPTION:Portland Trail Blazers (home)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909325/spurs-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909336@sports-feed
+DTSTAMP:20261128T023000Z
+DTSTART;TZID=America/New_York:20261127T213000
+DTEND;TZID=America/New_York:20261128T000000
+SUMMARY:🏀 Blazers vs Warriors
+DESCRIPTION:Portland Trail Blazers (home)\nNBA · NBA Cup - Group Play\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909336/warriors-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909334@sports-feed
+DTSTAMP:20261128T023000Z
+DTSTART;TZID=America/New_York:20261127T213000
+DTEND;TZID=America/New_York:20261128T000000
+SUMMARY:🏀 Nuggets @ Jazz
+DESCRIPTION:Denver Nuggets (away)\nNBA · NBA Cup - Group Play\nhttps://www
+ .espn.com/nba/game/_/gameId/401909334/nuggets-jazz
+LOCATION:Delta Center\, Salt Lake City\, UT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876393@sports-feed
+DTSTAMP:20261129T140000Z
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T110000
+SUMMARY:⚽ Auxerre vs Marseille (Ligue 1)
+DESCRIPTION:AJ Auxerre (home)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876393/marseille-aj-auxerre
+LOCATION:Stade de l'Abbé-Deschamps\, Auxerre\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401927392@sports-feed
+DTSTAMP:20261129T180000Z
+DTSTART;TZID=America/New_York:20261129T130000
+DTEND;TZID=America/New_York:20261129T150000
+SUMMARY:🏀 UMass vs Loyola Chicago
+DESCRIPTION:UMass Minutemen (home)\nNCAA\nhttps://www.espn.com/mens-college
+ -basketball/game/_/gameId/401927392/loyola-chicago-umass
+LOCATION:Mullins Center\, Amherst\, MA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910058@sports-feed
+DTSTAMP:20261129T230000Z
+DTSTART;TZID=America/New_York:20261129T180000
+DTEND;TZID=America/New_York:20261129T203000
+SUMMARY:🏀 Blazers vs Pelicans
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910058/pelicans-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910057@sports-feed
+DTSTAMP:20261129T230000Z
+DTSTART;TZID=America/New_York:20261129T180000
+DTEND;TZID=America/New_York:20261129T203000
+SUMMARY:🏀 Nuggets @ Raptors
+DESCRIPTION:Denver Nuggets (away)\nNBA\nhttps://www.espn.com/nba/game/_/gam
+ eId/401910057/nuggets-raptors
+LOCATION:Scotiabank Arena\, Toronto\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910062@sports-feed
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/New_York:20261130T190000
+DTEND;TZID=America/New_York:20261130T213000
+SUMMARY:🏀 Nuggets @ Pistons
+DESCRIPTION:Denver Nuggets (away)\nNBA\nhttps://www.espn.com/nba/game/_/gam
+ eId/401910062/nuggets-pistons
+LOCATION:Little Caesars Arena\, Detroit\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910074@sports-feed
+DTSTAMP:20261202T030000Z
+DTSTART;TZID=America/New_York:20261201T220000
+DTEND;TZID=America/New_York:20261202T003000
+SUMMARY:🏀 Blazers vs Timberwolves
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910074/timberwolves-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921875@sports-feed
+DTSTAMP:20261202T030000Z
+DTSTART;TZID=America/New_York:20261201T220000
+DTEND;TZID=America/New_York:20261202T000000
+SUMMARY:🏀 Oregon @ UCLA
+DESCRIPTION:Oregon Ducks (away)\nNCAA\nhttps://www.espn.com/mens-college-ba
+ sketball/game/_/gameId/401921875/oregon-ucla
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401911037@sports-feed
+DTSTAMP:20261202T233000Z
+DTSTART;TZID=America/New_York:20261202T183000
+DTEND;TZID=America/New_York:20261202T203000
+SUMMARY:🏀 UMass @ E Michigan
+DESCRIPTION:UMass Minutemen (away)\nNCAA\nhttps://www.espn.com/mens-college
+ -basketball/game/_/gameId/401911037/umass-e-michigan
+LOCATION:Gervin GameAbove Center\, Ypsilanti\, MI
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910077@sports-feed
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/New_York:20261202T190000
+DTEND;TZID=America/New_York:20261202T213000
+SUMMARY:🏀 Nuggets @ 76ers
+DESCRIPTION:Denver Nuggets (away)\nNBA\nhttps://www.espn.com/nba/game/_/gam
+ eId/401910077/nuggets-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910089@sports-feed
+DTSTAMP:20261204T030000Z
+DTSTART;TZID=America/New_York:20261203T220000
+DTEND;TZID=America/New_York:20261204T003000
+SUMMARY:🏀 Blazers vs Jazz
+DESCRIPTION:Portland Trail Blazers (home)\nNBA\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910089/jazz-trail-blazers
+LOCATION:Moda Center\, Portland\, OR
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401876384@sports-feed
+DTSTAMP:20261205T161500Z
+DTSTART;TZID=America/New_York:20261205T111500
+DTEND;TZID=America/New_York:20261205T131500
+SUMMARY:⚽ Auxerre @ Lille (Ligue 1)
+DESCRIPTION:AJ Auxerre (away)\nLigue 1\nhttps://www.espn.com/soccer/match/_
+ /gameId/401876384/aj-auxerre-lille
+LOCATION:Decathlon Arena - Stade Pierre-Mauroy\, Lille\, France
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401921880@sports-feed
+DTSTAMP:20261205T210000Z
+DTSTART;TZID=America/New_York:20261205T160000
+DTEND;TZID=America/New_York:20261205T180000
+SUMMARY:🏀 Oregon vs USC
+DESCRIPTION:Oregon Ducks (home)\nNCAA\nhttps://www.espn.com/mens-college-ba
+ sketball/game/_/gameId/401921880/usc-oregon
+LOCATION:Matthew Knight Arena\, Eugene\, OR
 END:VEVENT
 END:VCALENDAR
